@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+config.py
+import_news.py
+news_article.txt
+Reading the news.ipynb
